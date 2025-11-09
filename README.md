@@ -211,7 +211,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - **Issues**: [GitHub Issues](https://github.com/Ravixk78/whispered-secrets/issues)
-- **Email**: ravindukushan78@gmail..com
+- **Email**: ravindukushan78@gmail.com
 - **Documentation**: [Project Wiki](https://github.com/Ravixk78/whispered-secrets/wiki)
 
 ---
