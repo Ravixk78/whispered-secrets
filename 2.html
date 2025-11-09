@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Whispered Secrets - Part 1</title>
+    <link rel="stylesheet" href="assets/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="book-cover"></div>
+            <h1 class="title">Whispered Secrets</h1>
+            <p class="subtitle">A Collection of My Fragments</p>
+            <p class="part-number">Part 1</p>
+        </div>
+
+        <div class="audio-section">
+            <p>Tap below to listen to this secret fragment...</p>
+            <div class="audio-player" id="audioPlayer" data-audio-url="audio/WS_02 trackJ.m4a">
+                <span class="play-icon" id="playIcon">▶</span>
+                <span class="audio-text" id="audioText">Tap to Listen</span>
+            </div>
+            <p style="font-size: 0.9rem; color: var(--text-muted); margin-top: -1rem;">
+                Audio preloading... Ready when you are
+            </p>
+        </div>
+
+        <div class="qr-section">
+            <p>Scan to share this secret:</p>
+            <div class="qr-placeholder">QR Code</div>
+            <div class="page-url">https://your-site.netlify.app/1.html</div>
+            <p class="qr-instructions">Use any QR generator with this page URL</p>
+        </div>
+    </div>
+
+    <script src="assets/site.js"></script>
+</body>
+</html>
