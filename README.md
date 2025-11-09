@@ -210,9 +210,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/your-username/whispered-secrets/issues)
-- **Email**: your-email@example.com
-- **Documentation**: [Project Wiki](https://github.com/your-username/whispered-secrets/wiki)
+- **Issues**: [GitHub Issues](https://github.com/Ravixk78/whispered-secrets/issues)
+- **Email**: ravindukushan78@gmail..com
+- **Documentation**: [Project Wiki](https://github.com/Ravixk78/whispered-secrets/wiki)
 
 ---
 
